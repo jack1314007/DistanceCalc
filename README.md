@@ -1,5 +1,6 @@
 # DistanceCalcLib
 The DistanceCalcLib includes the frequently-used distance calculation methods.
+
 **Implemeted distance calculation methods**
 1. Euclidian Distance
 2. Manhattan Distance
