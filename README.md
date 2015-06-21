@@ -49,7 +49,9 @@ distanceCalc.h| All the distance calculation methods
 	 2|manhattan Distance
 	 3|Dynamic Time Warp
 	 4|Fréchet Distance
-
+	 
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 
 
