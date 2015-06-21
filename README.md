@@ -3,12 +3,12 @@ The DistanceCalcLib includes the frequently-used distance calculation methods.
 
 **Implemeted distance calculation methods**
 
-*More details see the wiki of this repo*
+*More details see the [wiki](https://github.com/jack1314007/DistanceCalc/wiki) of this repo*
 
 1. Euclidian Distance
 2. Manhattan Distance
 3. Dynamic Time Warp
-4. Fréchet Distance
+4. Fréchet Distance
 
 ###Headers
 Header Name   | Description
@@ -48,7 +48,7 @@ distanceCalc.h| All the distance calculation methods
 	 1|Euclidian Distance
 	 2|manhattan Distance
 	 3|Dynamic Time Warp
-	 4|Fréchet Distance
+	 4|Fréchet Distance
 	 
 http://github.com - automatic!
 [GitHub](http://github.com)
