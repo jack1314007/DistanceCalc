@@ -3,6 +3,8 @@ The DistanceCalcLib includes the frequently-used distance calculation methods.
 
 **Implemeted distance calculation methods**
 
+*More details see the wiki of this repo*
+
 1. Euclidian Distance
 2. Manhattan Distance
 3. Dynamic Time Warp
@@ -41,8 +43,8 @@ distanceCalc.h| All the distance calculation methods
  
  	Integar value. The index of the distance calculation algorithm. The index relationship is shown below:
 	
-	 Index Number  | Algorithm
-	 ------------- | -------------
+	  Index Number  | Algorithm
+	 :-------------:| -------------
 	 1|Euclidian Distance
 	 2|manhattan Distance
 	 3|Dynamic Time Warp
