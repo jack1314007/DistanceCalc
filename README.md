@@ -13,6 +13,19 @@ Header Name   | Description
 ------------- | -------------
 distanceCalc.h| All the distance calculation methods
 
+###Usage
+
+distance_calculation(InputMatrix1, InputMatrix2, OutputMatrix, Row1, Row2, Col, Algorithm)
+
+
+###Arguments
+ * InputMatrix1
+ * InputMatrix2
+ * OutputMatrix
+ * Row1
+ * Row2
+ * Col
+ * Algorithm
 
 
 
