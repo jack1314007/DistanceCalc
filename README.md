@@ -50,8 +50,6 @@ distanceCalc.h| All the distance calculation methods
 	 3|Dynamic Time Warp
 	 4|Fréchet Distance
 	 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
 
 
